@@ -1,0 +1,6 @@
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\obj\Debug\HotelRoomSchdeuleManagement.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\bin\HotelRoomSchdeuleManagement.dll.config
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\bin\HotelRoomSchdeuleManagement.dll
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\bin\HotelRoomSchdeuleManagement.pdb
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\obj\Debug\HotelRoomSchdeuleManagement.dll
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\HotelRoomSchdeuleManagement\HotelRoomSchdeuleManagement\obj\Debug\HotelRoomSchdeuleManagement.pdb

@@ -1,0 +1,82 @@
+﻿body {
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto ;
+    
+}
+
+.header {
+    width: 960px;
+    float: left;
+}
+
+.logo {
+    width: 500px;
+    height: 100px;
+    background: green;
+    float: left;
+}
+
+.banner {
+    width: 460px;
+    height: 100px;
+    background: red;
+    float: left;
+}
+
+
+nav {
+    width: 960px;
+    float: left;
+}
+
+nav ul {
+    
+}
+
+nav ul li {
+   display: inline; 
+}
+
+nav ul li a {
+    width: 190px;
+    font-family: sans-serif;
+    display: inline-block;
+    color: white;
+    float: left;
+    background: cornflowerblue;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 1px solid black;
+    
+}
+
+nav ul li a:hover {
+    color: cornflowerblue;
+    background: white;
+}
+
+.container {
+    width: 900px;
+    float: left;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+
+}
+
+.footer {
+    width: 960px;
+    text-align: center;
+    clear: both;
+    background: gray;
+    color: white;
+    padding: 20px 0;
+
+}
